@@ -1,5 +1,6 @@
-"students" :[
-  {
+{
+  "students":[
+    {
     "name": "Ahkillah Davis",
     "githubUserName": "adavi12",
     "shoutout": "Dear AH-KILL-AH - Thank you for sitting next to me. You are nice."
@@ -85,3 +86,4 @@
      "shoutout": "Thanks for Slacking me the speech topic!"
    }
 ]
+}

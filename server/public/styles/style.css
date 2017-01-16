@@ -1,0 +1,20 @@
+.carousel {
+  display: inline-block;
+  width:40px;
+  height:40px;
+  background-color:green;
+  transition: width 4s, height 4s, background-color 2s, transform 3s;
+}
+
+.carousel:hover{
+  background-color: orange;
+}
+h1{
+font-family: fantasy;
+font-size: 42px;
+text-align: center;
+font-weight: bold;
+}
+mark{
+  background-color: yellow;
+}
